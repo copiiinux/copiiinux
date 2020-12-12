@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**copiiinux/copiiinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+Loïck, 19 years old, Swiss student and apprentice Computer Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiences
+
+* 2018 - 2021 - Computer Scientist Apprenticeship - EMF Fribourg
+* 2020 - 2021 - Internship year - Morphean SA
+* Future - Bachelor of Science HES-SO in Computer Science and Communication Systems, specialised in Software Computing - HEIA-FR
+
+### Programming Skills
+
+* HTML, CSS, JS
+* Typescript (Angular)
+* Java (Spring Boot)
+* PHP
+
+### Programming Tools
+
+* Git
+* Atlassian tools (Bitbucket, Jira, Confluence)
+* Jenkins
+* Docker
+* Visual Studio Code, IntelliJ IDEA, Netbeans, MySQL Workbench
+* Postman
+* Microsoft tools
+
+### Working on  ...
+
+* Nothing actually
+
+### Learning ...
+
+* Typescript: Angular
+* Java: Spring Boot
+* Xcode IDE, Swift
+
+### Looking to collaborate on ...
+
+* Every project I can be helpfull
+
+### Need help with
+
+### Ask me about
+
+### How to reach me
+
+* [E-mail](mailto:loick2610@gmail.com)
