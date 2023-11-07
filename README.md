@@ -12,7 +12,7 @@ Loïck, 20 years old, Swiss Bachelor Student at HEIA-FR.
 
 ### Skills
 
-* (My Stack)[https://stackshare.io/copiiinux/my-stack]
+* [My Tech Stack](https://stackshare.io/copiiinux/my-stack)
 * Very good understanding of RESTful architecture
 * Fully independant but also willing to work in a team
 * Accurate, organized and convenient
