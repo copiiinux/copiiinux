@@ -1,7 +1,7 @@
 
 ### About me
 
-Loïck, 20 years old, Swiss Bachelor Student at HEIA-FR.
+Loïck, 20 years old, Software Developer at LAHOCO SA.
 
 ### Experiences
 
