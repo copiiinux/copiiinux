@@ -1,14 +1,14 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/copiiinux/my-stack)
 ### About me
 
-Loïck, 20 years old, Software Developer at LAHOCO SA.
+Loïck, 22 years old, Software Developer at LAHOCO SA.
 
 ### Experiences
 
 * 2018-2021 - Computer Scientist Apprenticeship - EMF Fribourg
-* 2020-2021 - 1 Year of internship as a Junior Full Stack Developer - Morphean SA
+* 2020-2021 - 1 Year of internship as a Full Stack Developer - Morphean SA
 * 2021-2023 - Bachelor of Science HES-SO in Computer Science and Communication Systems, on hold - HEIA-FR
-* 2023      - Junior Software Developer - LAHOCO SA
+* 2023      - Software Developer - LAHOCO SA
 
 ### Skills
 
