@@ -14,7 +14,7 @@ Loïck, 22 years old, Software Developer at LAHOCO SA.
 
 * [My Tech Stack](https://stackshare.io/copiiinux/my-stack)
 * Very good understanding of RESTful architecture
-* Fully independant but also willing to work in a team
+* Fully independent but also willing to work in a team
 * Accurate, organized and convenient
 
 ### How to reach me
